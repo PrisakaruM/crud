@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#3949AB</color>
+    <color name="colorAccent">#3949AB</color>
+    <color name="splashColor">#1E88E5</color>
+    <color name="colorWindowBackground">#E6E5E5</color>
+    <color name="colorNavBar">#D73949AB</color>
+    <color name="black">#272727</color>
 </resources>
